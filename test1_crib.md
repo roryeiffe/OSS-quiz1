@@ -18,28 +18,63 @@ OSS Links:
 ### [Difference between open/free software](https://askubuntu.com/questions/78958/is-there-a-difference-between-free-software-and-open-source-software)
 ### [History of OSS](http://eu.conecta.it/paper.pdf)
 ### [More History](https://opencommons.uconn.edu/cgi/viewcontent.cgi?article=1009&context=libr_pubs)
+### [Lab](https://github.com/rcos/CSCI-4470-OpenSource/blob/master/Modules/01.Introduction/Lab-Introduction.md)
 
 ## Licenses
+### [Four Criteria for Free Software](https://www.gnu.org/philosophy/free-sw.html)
+### [OSI License Page](https://opensource.org/licenses)
+### [Class Lecture Notes](https://github.com/rcos/CSCI-4470-OpenSource/blob/master/Modules/04.Licensing/Licensing-S2021-RPI-PatrickMasson.pdf)
+### [Why the Web Beat Gopher](https://ils.unc.edu/callee/gopherpaper.htm#explain)
+### [License Chooser](https://github.blog/2013-07-15-choosing-an-open-source-license/)
+### [Lab](https://github.com/rcos/CSCI-4470-OpenSource/blob/master/Modules/04.Licensing/Lab-Licensing.md)
+### [Creative Commons License](https://creativecommons.org/licenses/by/4.0/)
 
 ## Cmake/make
+### [Lab](https://github.com/rcos/CSCI-4470-OpenSource/blob/master/Modules/05.BuildSystems/Lab-BuildSystems.md)
+### [Cmake tutorial](https://cmake.org/cmake/help/latest/guide/tutorial/index.html)
+### [Build Systems Document](https://github.com/rcos/CSCI-4470-OpenSource/blob/master/Modules/05.BuildSystems/BuildSystems.pdf)
+
 
 ## Community
-eu.conecta.it/paper.pdf
+### [Community Lecture](https://www.youtube.com/watch?v=VIjwsEQG4VQ&list=PLaSjU4jLnEwgiZAjMr_Cp71kK_5nUykGo&index=10&ab_channel=WesTurner)
+### [Community](http://oss-watch.ac.uk/resources/buildingcommunities)
+### [Flow](https://en.wikipedia.org/wiki/Flow_(psychology))
+### [Lab](https://github.com/rcos/CSCI-4470-OpenSource/blob/master/Modules/03.DocumentationAndCommunity/Lab-DocumentationAndCommunity.md)
+
+
 ## Documentation
+### [CSS](http://www.w3schools.com/css/)
+### [Literate Programming](https://en.wikipedia.org/wiki/Literate_programming)
+### [More on literate programming](https://programminghistorian.org/en/lessons/jupyter-notebooks)
+### [Dynamic Report Generation in R](https://en.wikipedia.org/wiki/Knitr)
+### [Documentation Lecture](youtube.com/watch?v=C8LEXTKIGNI&list=PLaSjU4jLnEwgiZAjMr_Cp71kK_5nUykGo&index=8&ab_channel=WesTurner)
+### [Documentation Lecture 2](https://www.youtube.com/watch?v=F5fcKGzMHSo&list=PLaSjU4jLnEwgiZAjMr_Cp71kK_5nUykGo&index=9&ab_channel=WesTurner)
+### [Lab](https://github.com/rcos/CSCI-4470-OpenSource/blob/master/Modules/03.DocumentationAndCommunity/Lab-DocumentationAndCommunity.md)
 
 ## Testing
 
+
 ## Program Analysis
+### [Essay Prompt](https://github.com/rcos/CSCI-4470-OpenSource/tree/master/Assignments/Analysis%20Homework)
+### [Evaluation Activity](http://foss2serve.org/index.php/Project_Evaluation_(Activity))
+### [Evaluation Rubric](http://foss2serve.org/index.php/Project_Evaluation_Rubric_(Activity))
 
 ## Github
 ### [Git cheatsheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
 ### [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+### [Git lecture 1](https://www.youtube.com/watch?v=NiT8sOVXGl4&list=PLaSjU4jLnEwgiZAjMr_Cp71kK_5nUykGo&index=6&ab_channel=WesTurner)
+### [Git lecture 2](https://www.youtube.com/watch?v=ldMqiBrPyEE&list=PLaSjU4jLnEwgiZAjMr_Cp71kK_5nUykGo&index=5&ab_channel=WesTurner)
+### [Git lecture 3](https://www.youtube.com/watch?v=9cMmiuVgito&list=PLaSjU4jLnEwgiZAjMr_Cp71kK_5nUykGo&index=7&ab_channel=WesTurner)
+### [Lab](https://github.com/rcos/CSCI-4470-OpenSource/blob/master/Modules/02.Git/Lab-Git.md)
+
 
 ## RegEx
-[Regex Tutorial (And cheatsheet)](https://regexone.com/)
+### [Regex Tutorial (And cheatsheet)](https://regexone.com/)
 
 ## Latex
 
+### [Overleaf](https://www.overleaf.com)
+### [Basic latex](http://artofproblemsolving.com/wiki/index.php/LaTeX:Basics)
 ### [basic latex documentation](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols)
 ### [Advanced latex documentation](https://en.wikipedia.org/wiki/List_of_mathematical_symbols_by_subject)
 
